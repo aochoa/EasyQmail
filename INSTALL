@@ -1,0 +1,5 @@
+EasyQmail requires root access to the system.
+
+To start the install process, simply run the following under containing directory:
+        ./install
+        
